@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tejas\\Documents\\GitHub\\portfolio\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj": {}
+    "C:\\Users\\tejas\\Documents\\GitHub\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tejas\\Documents\\GitHub\\portfolio\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj": {
+    "C:\\Users\\tejas\\Documents\\GitHub\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tejas\\Documents\\GitHub\\portfolio\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj",
+        "projectUniqueName": "C:\\Users\\tejas\\Documents\\GitHub\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj",
         "projectName": "Fool_s_Gold",
-        "projectPath": "C:\\Users\\tejas\\Documents\\GitHub\\portfolio\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj",
+        "projectPath": "C:\\Users\\tejas\\Documents\\GitHub\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj",
         "packagesPath": "C:\\Users\\tejas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tejas\\Documents\\GitHub\\portfolio\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\obj\\",
+        "outputPath": "C:\\Users\\tejas\\Documents\\GitHub\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tejas\\AppData\\Roaming\\NuGet\\NuGet.Config"

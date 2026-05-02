@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1av8hLdFZ4c=",
+  "dgSpecHash": "0byux5EHO9I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tejas\\Documents\\GitHub\\portfolio\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj",
+  "projectFilePath": "C:\\Users\\tejas\\Documents\\GitHub\\Fools-Gold\\Fool's Gold-20260502T061256Z-3-001\\Fool_s Gold\\Fool_s Gold\\Fool_s Gold\\Fool_s_Gold\\Fool_s_Gold.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tejas\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
     "C:\\Users\\tejas\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",

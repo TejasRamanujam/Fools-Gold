@@ -1,7 +1,7 @@
 is_global = true
-build_property.TargetFramework = net9.0
+build_property.TargetFramework = net8.0
 build_property.TargetFrameworkIdentifier = .NETCoreApp
-build_property.TargetFrameworkVersion = v9.0
+build_property.TargetFrameworkVersion = v8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -13,5 +13,5 @@ build_property.RootNamespace = Fool_s_Gold
 build_property.ProjectDir = C:\Users\tejas\Documents\GitHub\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
