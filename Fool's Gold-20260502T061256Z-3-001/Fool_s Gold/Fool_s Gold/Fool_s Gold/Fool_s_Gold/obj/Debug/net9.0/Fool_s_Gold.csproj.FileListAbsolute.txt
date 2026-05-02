@@ -1,0 +1,42 @@
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_Gold.csproj.AssemblyReference.cache
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_Gold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_Gold.csproj.CoreCompileInputs.cache
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_Gold.sourcelink.json
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Fonts\ScoreFont.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Background\forest-background.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Background\Ocean background.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Background\Plains backgroud.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Collectables\Coin sprite.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Enemy\Lieutenant 1.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Enemy\Soldier.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Player\attack_side.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Player\death_side.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Player\idle_side.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Player\run_side.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Tiles\grass edge.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Tiles\grass.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\Tiles\Wood.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Sprites\White Square.xnb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Levels\Level0.txt
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Levels\Level1.txt
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Content\Levels\Level2.txt
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Fool_s_Gold.exe
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Fool_s_Gold.deps.json
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Fool_s_Gold.runtimeconfig.json
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Fool_s_Gold.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\Fool_s_Gold.pdb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\bin\Debug\net9.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_G.38299024.Up2Date
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_Gold.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\refint\Fool_s_Gold.dll
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_Gold.pdb
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\Fool_s_Gold.genruntimeconfig.cache
+C:\Users\tejas\Documents\GitHub\portfolio\Fools-Gold\Fool's Gold-20260502T061256Z-3-001\Fool_s Gold\Fool_s Gold\Fool_s Gold\Fool_s_Gold\obj\Debug\net9.0\ref\Fool_s_Gold.dll

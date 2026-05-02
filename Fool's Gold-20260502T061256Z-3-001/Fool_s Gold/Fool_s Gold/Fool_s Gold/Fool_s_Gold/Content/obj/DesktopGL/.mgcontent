@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Fonts/ScoreFont.spritefont</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Background/forest-background.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Background/Plains backgroud.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Background/Ocean background.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/White Square.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Collectables/Coin sprite.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Enemy/Lieutenant 1.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Enemy/Soldier.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Player/attack_side.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Player/death_side.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Player/idle_side.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Player/run_side.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Tiles/grass edge.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Tiles/grass.png</File>
+    <File>C:/Users/tejas/Documents/GitHub/portfolio/Fools-Gold/Fool's Gold-20260502T061256Z-3-001/Fool_s Gold/Fool_s Gold/Fool_s Gold/Fool_s_Gold/Content/Sprites/Tiles/Wood.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
