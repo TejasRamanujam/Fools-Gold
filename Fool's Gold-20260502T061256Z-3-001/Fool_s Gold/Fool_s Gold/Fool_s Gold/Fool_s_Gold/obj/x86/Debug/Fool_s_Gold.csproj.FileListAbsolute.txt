@@ -1,0 +1,35 @@
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\White Square.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Levels\Level0.txt
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Fool_s_Gold.exe
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Fool_s_Gold.pdb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.dll
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.xml
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\obj\x86\Debug\Fool_s_Gold.csprojResolveAssemblyReference.cache
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\obj\x86\Debug\Fool_s_Gold.exe
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\obj\x86\Debug\Fool_s_Gold.pdb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Background\Ocean background.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Background\Plains backgroud.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\attack_side.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\death_side.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\idle_side.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\run_side.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Tiles\grass edge.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Tiles\grass.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Tiles\Wood.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Enemy\Soldier.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Background\forest-background.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Enemy\Lieutenant 1.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Levels\Level1.txt
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Collectables\Coin sprite.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Enemy\Lieutenant 1 - Copy.xnb
+H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Levels\Level2.txt

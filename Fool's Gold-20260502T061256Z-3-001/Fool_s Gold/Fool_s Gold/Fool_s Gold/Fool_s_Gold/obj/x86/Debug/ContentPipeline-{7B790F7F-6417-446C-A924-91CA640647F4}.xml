@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\White Square.png</Source>
+      <Name>Sprites\White Square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\White Square.xnb</Output>
+      <Time>2022-03-01T09:00:08.1334279-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Background\Ocean background.png</Source>
+      <Name>Sprites\Background\Ocean background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Background\Ocean background.xnb</Output>
+      <Time>2022-03-16T09:10:03.0502075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Background\Plains backgroud.png</Source>
+      <Name>Sprites\Background\Plains backgroud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Background\Plains backgroud.xnb</Output>
+      <Time>2022-03-18T08:56:16.5892289-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\attack_side.png</Source>
+      <Name>Sprites\Player\attack_side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\attack_side.xnb</Output>
+      <Time>2022-03-18T09:59:20.5082777-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\death_side.png</Source>
+      <Name>Sprites\Player\death_side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\death_side.xnb</Output>
+      <Time>2022-03-30T09:45:44.4633306-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\idle_side.png</Source>
+      <Name>Sprites\Player\idle_side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\idle_side.xnb</Output>
+      <Time>2022-03-22T09:50:01.5106189-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\run_side.png</Source>
+      <Name>Sprites\Player\run_side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Player\run_side.xnb</Output>
+      <Time>2022-03-22T09:58:21.6522231-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\grass edge.png</Source>
+      <Name>Sprites\Tiles\grass edge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Tiles\grass edge.xnb</Output>
+      <Time>2022-03-30T10:03:25.7361096-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\grass.png</Source>
+      <Name>Sprites\Tiles\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Tiles\grass.xnb</Output>
+      <Time>2022-03-30T10:03:25.8298356-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tiles\Wood.png</Source>
+      <Name>Sprites\Tiles\Wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Tiles\Wood.xnb</Output>
+      <Time>2022-03-28T08:50:38.9059348-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreFont.spritefont</Source>
+      <Name>Fonts\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Fonts\ScoreFont.xnb</Output>
+      <Time>2022-03-28T09:54:57.398743-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Soldier.png</Source>
+      <Name>Sprites\Enemy\Soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Enemy\Soldier.xnb</Output>
+      <Time>2022-03-30T08:51:06.4564062-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Background\forest-background.png</Source>
+      <Name>Sprites\Background\forest-background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Background\forest-background.xnb</Output>
+      <Time>2022-03-30T09:54:13.5842552-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Lieutenant 1.png</Source>
+      <Name>Sprites\Enemy\Lieutenant 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Enemy\Lieutenant 1.xnb</Output>
+      <Time>2022-04-05T09:50:02.9117284-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Collectables\Coin sprite.png</Source>
+      <Name>Sprites\Collectables\Coin sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Collectables\Coin sprite.xnb</Output>
+      <Time>2022-04-01T10:05:39.4969615-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Lieutenant 1 - Copy.png</Source>
+      <Name>Sprites\Enemy\Lieutenant 1 - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\Sprites\Enemy\Lieutenant 1 - Copy.xnb</Output>
+      <Time>2022-04-05T09:49:48.0221421-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7B790F7F-6417-446C-A924-91CA640647F4}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_GoldContent\</RootDirectory>
+      <LoggerRootDirectory>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Sprint 8\Fool's Gold\Fool's Gold\Fool_s_Gold\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-06-27T10:17:11.6687715-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

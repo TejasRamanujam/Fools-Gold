@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fool_s_Gold", "Fool's Gold\Fool_s_Gold\Fool_s_Gold.csproj", "{4C75809F-D72E-49BA-A209-90C680CADA54}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Fool_s_GoldContent", "Fool's Gold\Fool_s_GoldContent\Fool_s_GoldContent.contentproj", "{7B790F7F-6417-446C-A924-91CA640647F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C75809F-D72E-49BA-A209-90C680CADA54}.Debug|x86.ActiveCfg = Debug|x86
+		{4C75809F-D72E-49BA-A209-90C680CADA54}.Debug|x86.Build.0 = Debug|x86
+		{4C75809F-D72E-49BA-A209-90C680CADA54}.Release|x86.ActiveCfg = Release|x86
+		{4C75809F-D72E-49BA-A209-90C680CADA54}.Release|x86.Build.0 = Release|x86
+		{7B790F7F-6417-446C-A924-91CA640647F4}.Debug|x86.ActiveCfg = Debug|x86
+		{7B790F7F-6417-446C-A924-91CA640647F4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

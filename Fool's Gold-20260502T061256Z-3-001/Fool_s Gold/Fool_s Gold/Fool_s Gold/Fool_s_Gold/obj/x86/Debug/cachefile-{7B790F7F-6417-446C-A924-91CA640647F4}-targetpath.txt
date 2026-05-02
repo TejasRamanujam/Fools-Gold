@@ -1,0 +1,19 @@
+Content\Sprites\White Square.xnb
+Content\Sprites\Background\Ocean background.xnb
+Content\Sprites\Background\Plains backgroud.xnb
+Content\Sprites\Player\attack_side.xnb
+Content\Sprites\Player\death_side.xnb
+Content\Sprites\Player\idle_side.xnb
+Content\Sprites\Player\run_side.xnb
+Content\Sprites\Tiles\grass edge.xnb
+Content\Sprites\Tiles\grass.xnb
+Content\Sprites\Tiles\Wood.xnb
+Content\Fonts\ScoreFont.xnb
+Content\Sprites\Enemy\Soldier.xnb
+Content\Sprites\Background\forest-background.xnb
+Content\Sprites\Enemy\Lieutenant 1.xnb
+Content\Sprites\Collectables\Coin sprite.xnb
+Content\Sprites\Enemy\Lieutenant 1 - Copy.xnb
+Content\Levels\Level0.txt
+Content\Levels\Level1.txt
+Content\Levels\Level2.txt
